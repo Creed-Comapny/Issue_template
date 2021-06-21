@@ -9,7 +9,7 @@ A list of relevant files for this issue. This will help people navigate the proj
 
 ## Screenshots 📸
 
-<img src="paste the URL" width="350">
+<img src="paste_the_URL" width="350">
 
 ## To Reproduce ✅
 
