@@ -1,31 +1,21 @@
-## Overview 🚀
+## Description 🚀
 
-Give the brief about your changes
+A clear and concise description of what the issue is about.
 
-## How Has This Been Tested? 🚨
+## Files 🚨
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+A list of relevant files for this issue. This will help people navigate the project and offer some clues of where to start.
 
-- Manual
 
 ## Screenshots 📸
 
 
 
-## Checklist ✅
+## To Reproduce ✅
 
-- [ ] My code follows the style guidelines of this project
+If this issue is describing a bug, include some steps to reproduce the behavior.
 
-- [ ] I have performed a self-review of my own code
+## Task
 
-- [ ] I have commented my code, particularly in hard-to-understand areas
+Include specific tasks in the order they need to be done in. Include links to specific lines of code where the task should happen at.
 
-- [ ] I have made corresponding changes to the documentation
-
-- [ ] My changes generate no new warnings
-
-- [ ] I have added tests that prove my fix is effective or that my feature works
-
-- [ ] New and existing unit tests pass locally with my changes
-
-- [ ] Any dependent changes have been merged & published in downstream modules
