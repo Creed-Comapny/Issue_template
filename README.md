@@ -2,7 +2,11 @@
 
 A clear and concise description of what the issue is about.
 
-## Files 🚨
+## Peer Group :two_women_holding_hands:
+
+People who wil be working on the issue 
+
+## Resources 🚨
 
 A list of relevant files for this issue. This will help people navigate the project and offer some clues of where to start.
 
